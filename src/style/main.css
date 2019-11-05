@@ -1,0 +1,180 @@
+.ant-table td {
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+.ant-card-wider-padding .ant-card-body{
+    padding: 16px;
+}
+.margin-left-5{
+    margin-left: 5px;
+}
+.margin-left-20{
+    margin-left: 20px;
+}
+.delColor{
+    color: #ff9900
+}
+.pnstyle{
+    text-align: right;
+    margin-top: 10px !important;
+}
+.txtCenter{
+    text-align: center;
+}
+.radioText{
+    margin: -50px 0 10px 100px;
+    font-size: 12px;
+    color: #929292;
+}
+.textBlod{
+    font-weight: bold;
+}
+/*.demo-table-expand {*/
+    /*font-size: 0;*/
+/*}*/
+/*.demo-table-expand label {*/
+    /*width: 90px;*/
+    /*color: #99a9bf;*/
+/*}*/
+/*.demo-table-expand .el-form-item {*/
+    /*margin-right: 0;*/
+    /*margin-bottom: 0;*/
+    /*width: 50%;*/
+/*}*/
+
+.mapContent{
+    position: relative;
+}
+.like{
+    position: absolute;
+    top: 70px;
+    right:80px;
+}
+.marginTop{
+    margin-top: -20px
+}
+.drugContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.innerDiv{
+    min-width: 300px;
+    border:1px solid #EBEBEB;
+    padding-top: 10px;
+}
+.marLeft10{
+    margin-left: 10px;
+}
+.innerDiv p{
+    margin-left: 10px;
+    line-height: 24px;
+}
+.innerDiv input{
+    border:0
+}
+.title{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+.contenFoot{
+    width:100%;
+    height:50px;
+    border-top: 1px solid #EBEBEB;
+    background-color:#F7F9FA ;
+    text-align: center;
+    line-height: 50px;
+    font-size: 16px;
+}
+.contenFoot input{
+    font-size: 16px;
+    padding: 0 5px;
+}
+.cardHead{
+    height: 32px;
+    line-height: 32px;
+}
+.mapBtnGroup{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: -60px
+}
+.innerDiv .marginCol{
+    margin-bottom: 1em;
+    margin-left: 10px
+}
+.marginCol input{
+    opacity: 0.8;
+}
+.opacity8{
+    opacity: 0.8;
+}
+.btnMarginLeft{
+    margin-left: 150px
+}
+.updateBtn{
+    background-color: #1890FF !important;
+    color: white !important;
+}
+.highlight {
+    background-color: yellow;
+}
+.search-item-title{
+    display: block;
+    line-height: 28px;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.85);
+}
+.search-item-info{
+    display: block;
+    line-height: 22px;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.65)
+}
+.bottom-text{
+    margin: 0;
+    font-size: 12px;
+    opacity: 0.6
+}
+/*.el-table__header tr th{*/
+    /*background-color: #fafafa !important;*/
+    /*color:rgba(0,0,0,0.65) !important;*/
+/*}*/
+.el-table th>.cell{
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+}
+.ant-badge-status-text {
+    font-size: 14px !important;
+}
+.badge-status-text{
+    font-size: 14px !important;
+}
+.el-table th {
+    background:rgba(0,0,0,0.04) !important;
+}
+.el-table td{
+    padding: 6px 0;
+}
+.fontColor{
+     color: rgba(0,0,0,0.65)
+}
+.fontWeight{
+  font-weight:bold;
+}
+/*.ant-tree-title{*/
+    /*font-size: 12px;*/
+/*}*/
+.priceClass{
+    color: #1890FF;
+    font-size: 20px;
+}
+.ant-menu-inline-collapsed>.ant-menu-submenu>.ant-menu-submenu-title .icon{
+    display: block;
+    font-size: 20px;
+}
